@@ -10,6 +10,10 @@ npm-debug.*
 web-build/
 web-report/
 
+json-server/node_modules/**/*
+json-server/db.json
+
+
 # macOS
 .DS_Store
 
